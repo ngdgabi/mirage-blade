@@ -1,0 +1,14 @@
+build/DerivedData/
+build/DerivedDataMobile/
+build/universal_pkg/
+build/*.xcarchive
+dist/*.app
+dist/*.dmg
+dist/*.zip
+dist/AppStore_Export_macOS/
+dist/AppStore_Export_iOS/
+dist/AppStore_Assets/*.mp4
+Marketing/*.mp4
+.DS_Store
+*.xcuserdata
+*.p8
